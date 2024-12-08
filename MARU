@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Test Hub",--MABNANA HUB
+    logoscript = "81656015398021",--ID Logo Script
+    tacgia = "lam Doi"-- FAN MARU HUB
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
